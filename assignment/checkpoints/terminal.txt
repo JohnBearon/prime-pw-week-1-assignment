@@ -17,5 +17,6 @@
 # 8 - Why would you run the command 'git status'?
 ------To check if a file is being tracked or if a file has a saved version of it.
 # 9 - What does the command 'git add .' do?
-
+------It "stages" a commit for the entire current directory.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+------git push origin master 
